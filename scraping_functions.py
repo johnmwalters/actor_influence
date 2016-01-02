@@ -4,7 +4,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import time
 
-
 '''
 actor_movie_table
 The following function generates a list of lists consisting of the first table found on a particular
